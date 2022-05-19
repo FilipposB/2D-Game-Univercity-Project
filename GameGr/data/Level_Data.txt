@@ -1,0 +1,17 @@
+#Level ID&Level Name&Images&Background_Image&Color Code File
+#Explanation
+#
+#Level ID : A number representing the level (example : Level ID = 4 means the level data is in the data/levels/level4)
+#
+#Level Name : The name that the player will see in game
+#
+#Images : The image files used should use this format -> hero%level1 to import multiple image folders (example : hero%level1 means that all images in images/hero and images/level_1 will be used)
+#
+#Background_Image : The name of a background image inside the "data/images/backgrounds/" this image will be used for the background
+#
+#Color Code File : Set this to DEFAULT if you want to use the default Color Code else specify it, it must be in the same folder (example : In level 1 the Color Code File must be in data/levels/level1)
+#
+#Levels should be added
+#
+1&Level1&hero%level_1&Ground&DEFAULT
+2&Level2&hero%level_1&Ground&DEFAULT

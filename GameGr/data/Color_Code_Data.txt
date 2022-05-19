@@ -1,0 +1,11 @@
+#Example #is_used_for_comments
+#Each_color_has_a_value
+#White_Blank_Color_has_a_Value_of_0
+#and_its_used_to_indicate_blank
+
+255 255 255 #White_Blank_Color
+185 122 87  #Brown
+0   0   0   #Black
+237 28  36  #Red
+34  177 76  #Green
+255 242 0   #Yellow
